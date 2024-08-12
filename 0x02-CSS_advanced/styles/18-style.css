@@ -43,7 +43,7 @@
     --nav-item-font-size: var(--font-size-medium);
     --nav-item-letter-spacing: 0.04em; /* 4% of the root element's font-size, where 1em = 100% */
     --nav-item-display: inline-block;
-    --nav-item-margin: 3rem 0 0 0; /* 3 times the root element on the bottom, 0 elsewhere */
+    --nav-item-margin: 0 0 3rem 0; /* 3 times the root element on the bottom, 0 elsewhere */
     --nav-item-link-hover: var(--color-primary);
     }
     
