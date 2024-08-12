@@ -95,7 +95,6 @@
         margin: 0.67em 0;
     }
 
-
     a[href]{
         text-decoration: none;
         color: var(--text-color);
@@ -456,7 +455,7 @@
     display: none;
   }
 
-  footer {
+  .footer {
     padding: var(--footer-padding);
   }
   
