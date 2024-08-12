@@ -162,7 +162,7 @@
         text-align: var(--section-footer-align);
     }
     .footer-copyright {
-        margin: 0 0 0 0; /* Removes all margins */
+         /* Removes all margins */
         font-size: var(--font-size-small); /* Sets font size to small */
         color: var(--text-color); /* Sets the text color */
     }
