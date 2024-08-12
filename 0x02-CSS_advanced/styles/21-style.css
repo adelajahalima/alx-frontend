@@ -189,8 +189,8 @@
 
     [class^="col-"] {
         float: left; /* Float elements to the left */
-        padding: calc(0.5 * var(--root-padding)); /* Sets padding to half of the root element's padding */
-        /* padding: 0.5rem; */
+        /* padding: calc(0.5 * var(--root-padding));  */
+        padding: 0.5rem;
     }
     
     .section-title {
